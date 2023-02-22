@@ -6,7 +6,6 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[\_Awesome\_Books\_Js\] \_Awesome\_Books\_Js](#-_awesome_books_js-_awesome_books_js)
   - [🛠 Built With Html, css, javascript](#-built-with-html-css-javascript)
     - [Tech Stack HTML5, CSS3 JAVASCRIPT](#tech-stack-html5-css3-javascript)
     - [Key Features ](#key-features-)
@@ -106,7 +105,7 @@ You can deploy this project using: GitHub pages.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hisoka37/Awesome_Books_Js).
+Feel free to check the [issues page](https://github.com/Hisoka37/To-DO-List).
 
 <!-- SUPPORT -->
 
