@@ -32,15 +32,15 @@ This is a ToDoList project.
 
 ### Tech Stack <a name="tech-stack">HTML5, CSS3 JAVASCRIPT</a>
 
-HTML5 and css3 which the latest versions and JavaScript were used in this project.
+HTML5 and css3 which are the latest versions and JavaScript were used in this project.
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[key_feature_1]** ToDoList built with HTML CSS and javascript
+- **[key_feature_1]** ToDoList built with HTML CSS and javascript 
 - **[key_feature_2]** Dynamiccally loading with javascript.
-- **[key_feature_3]** Apply Webpack. 
+- **[key_feature_3]** Apply module bundler (Webpack).
 
 <!-- LIVE DEMO -->
 
@@ -58,15 +58,12 @@ HTML5 and css3 which the latest versions and JavaScript were used in this projec
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-Basic knowledge of computers.
-
-In order to run this project you need:
-live server.
+Basic knowledge of computers. To run this project you need  to run (npm run serve ).
 
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/Hisoka37/Awesome_Books_Js
+
 
 ### Install
 
@@ -75,7 +72,8 @@ Install this project with cd to ToDoList.
 ### Run tests
 
 To run tests, run the following command:
-npm test
+npm run serve  
+
 
 ### Deployment
 
@@ -85,18 +83,13 @@ You can deploy this project using: GitHub pages.
 
 ## 👥 Author(s) <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+> Walid Kabboussa
 
 👤 **Author1**
 
-- GitHub [Hisoka37] (https://github.com/Hisoka37)
-
-👤 **Author2**
-
-
-- GitHub: [@EnixWord](https://github.com/EnixWord)
-- Twitter: [@StevMicroverse](https://twitter.com/StevMicroverse)
-- LinkedIn: [Stephen Okhaishie](https://www.linkedin.com/in/stephen-okhaishie-3baa19255/)
+- GitHub: [@Hisoka37](https://github.com/Hisoka37)
+- Twitter: [@KBwalid9](https://twitter.com/KBwalid9)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/walidkb/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -124,7 +117,7 @@ If you like this project give a ⭐️.
 
 <!-- ACKNOWLEDGEMENTS -->
 
-I would like to thank God Almighty and Microverse for the opportunity and motivation.
+I would like to thank  Microverse for the opportunity and motivation.
 
 <!-- FAQ (optional) -->
 

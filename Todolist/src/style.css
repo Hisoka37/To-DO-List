@@ -15,32 +15,75 @@ body {
 }
 
 .container {
-  max-width: 60%;
+  max-width: 50%;
   position: relative;
-  width: 100%;
-  background-color: rgb(233, 240, 240);
+  width: 60%;
+  background-color: rgb(250, 250, 250);
   border: 1px solid rgb(10, 10, 10);
-  box-shadow: 0 13px 13px rgba(228, 212, 212, 0.1);
-  border-radius: 8px;
+  box-shadow: 0 13px 13px rgba(156, 10, 10, 0.1);
+  border-radius: 5px;
   padding: 25px;
-  margin: 85px auto 0;
+  margin: 150px auto 0;
 }
 
 .Todo-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   position: relative;
   height: 64px;
   width: 100%;
 }
 
-.Todo-head textarea {
-  height: 50%;
-  width: 88%;
-  font-size: 1rem;
-  font-style: italic;
-  font-weight: 400;
-  border: none;
-  background: none;
+form {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 20px;
+}
+
+form input {
+  width: 200%;
+  border-top: 1px solid var(--color-gray);
+  border-bottom: 1px solid var(--color-gray);
+  border-left: 0;
+  border-right: 0;
   padding: 2%;
-  resize: none;
+  height: 10px;
+}
+
+input:focus {
   outline: none;
+}
+
+.todo-list {
+  gap: 7px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  list-style: none;
+  padding: 0;
+}
+
+.listTask {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  justify-content: space-between;
+}
+
+.text-data {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.clear-todo {
+  color: rgb(110, 109, 107);
+  margin: auto;
+  padding: 2%;
+  cursor: pointer;
+  position: relative;
+  left: 35%;
+  top: 15px;
 }
