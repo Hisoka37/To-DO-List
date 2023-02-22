@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Alegreya+Sans&family=Merriweather&family=Merriweather+Sans&family=Nunito&family=Nunito+Sans&family=Poppins:wght@300;400;500;600;700&family=Quattrocento&family=Quattrocento+Sans&family=Roboto&family=Roboto+Mono&family=Roboto+Slab&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  position: relative;
+  background-color: rgb(241, 241, 241);
+}
+
+.container {
+  max-width: 60%;
+  position: relative;
+  width: 100%;
+  background-color: rgb(233, 240, 240);
+  border: 1px solid rgb(10, 10, 10);
+  box-shadow: 0 13px 13px rgba(228, 212, 212, 0.1);
+  border-radius: 8px;
+  padding: 25px;
+  margin: 85px auto 0;
+}
+
+.Todo-head {
+  position: relative;
+  height: 64px;
+  width: 100%;
+}
+
+.Todo-head textarea {
+  height: 50%;
+  width: 88%;
+  font-size: 1rem;
+  font-style: italic;
+  font-weight: 400;
+  border: none;
+  background: none;
+  padding: 2%;
+  resize: none;
+  outline: none;
+}
