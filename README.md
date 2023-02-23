@@ -118,7 +118,7 @@ I would like to thank  Microverse for the opportunity and motivation.
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ <a name="faq"></a>
+
 
 
 
