@@ -87,3 +87,43 @@ input:focus {
   left: 35%;
   top: 15px;
 }
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.fa {
+  font-size: 24px;
+}
+
+.fa-trash-o {
+  font-size: 20px;
+}
+
+.fa-edit {
+  font-size: 18px;
+  padding-left: 5px;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+li input[type=checkbox] {
+  margin-right: 10px;
+}
+
+li input[type=text] {
+  width: 200%;
+  border-top: 1px solid var(--color-gray);
+  border-bottom: 1px solid var(--color-gray);
+  border-left: 0;
+  border-right: 0;
+  padding: 2%;
+  height: 10px;
+  margin-right: 15px;
+}
