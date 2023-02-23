@@ -94,11 +94,8 @@ You can deploy this project using: GitHub pages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- **[future_feature_1]**  
-- **[future_feature_2]**  
-- **[future_feature_3]** 
-- **[future_feature_4]** 
-- **[future_feature_5]** 
+- **[future_feature_1]**  add & remove Tasks function.
+- **[future_feature_2]**  To Do list: interactive list
 
 <!-- CONTRIBUTING -->
 
@@ -131,4 +128,4 @@ I would like to thank  Microverse for the opportunity and motivation.
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
