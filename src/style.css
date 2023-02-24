@@ -83,9 +83,9 @@ input:focus {
   margin: auto;
   padding: 2%;
   cursor: pointer;
-  position: relative;
-  left: 35%;
-  top: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 ul {
