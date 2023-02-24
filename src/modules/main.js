@@ -1,11 +1,12 @@
 const taskList = document.querySelector('.todo-list');
 const newTaskInput = document.querySelector('.data-input');
 const addTaskButton = document.getElementById('add-task');
+const inputField = document.querySelector('.data-input');
 const tasks = JSON.parse(localStorage.getItem('tasks')) || [];
 
 function updateIndexes() {
   tasks.forEach((task, index) => {
-    task.index = index;
+    task.index = index + 1;
   });
 }
 
@@ -58,7 +59,7 @@ function addTask() {
     const task = {
       description,
       completed: false,
-      index: tasks.length,
+      index: tasks.length + 1,
     };
     tasks.push(task);
     saveTasks();
@@ -66,5 +67,12 @@ function addTask() {
     showTasks();
   }
 }
+
+inputField.addEventListener('keypress', (e) => {
+  if (e.key === 'Enter') {
+    addTask();
+  }
+});
+
 addTaskButton.addEventListener('click', addTask);
 showTasks();
