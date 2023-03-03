@@ -40,7 +40,7 @@ function showTasks() {
     });
 
     const deleteButton = document.createElement('a');
-    deleteButton.innerHTML = '<i class="fa fa-trash-o"></i>';
+    deleteButton.innerHTML = '<i class="fa-solid fa-trash"></i>';
     deleteButton.addEventListener('click', () => {
       tasks.splice(index, 1);
       saveTasks();
@@ -48,7 +48,7 @@ function showTasks() {
     });
 
     const editButtons = document.createElement('a');
-    editButtons.innerHTML = '<i class="far fa-edit"></i>';
+    editButtons.innerHTML = '<i class="fa-regular fa-pen-to-square"></i>';
     editButtons.addEventListener('click', () => {
       input.contentEditable = true;
       input.focus();
