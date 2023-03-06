@@ -38,15 +38,15 @@ HTML5 and css3 which are the latest versions and JavaScript were used in this pr
 
 ### Key Features <a name="key-features"></a>
 
-- **[key_feature_1]** ToDoList built with HTML CSS and javascript 
-- **[key_feature_2]** Dynamically loading with javascript.
-- **[key_feature_3]** Apply module bundler (Webpack).
+- ToDoList built with HTML CSS and javascript 
+- Dynamically loading with javascript.
+- Apply module bundler (Webpack).
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://hisoka37.github.io/To-DO-List/build/)
+- [Live Demo Link](https://hisoka37.github.io/To-DO-List)
 
 <!-- GETTING STARTED -->
 
