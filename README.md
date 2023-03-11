@@ -110,6 +110,8 @@ You can deploy this project using: GitHub pages or ``` npm run deploy ```.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🔭 Future Features <a name="future-features"></a>
+
 - **[future_feature_1]**  add & remove Tasks function.
 - **[future_feature_2]**  To Do list: interactive list drag and drop
 
@@ -141,7 +143,4 @@ I would like to thank  Microverse for the opportunity and motivation.
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
-
-## 📝 License
-
 This project is [MIT](./LICENSE) licensed.
