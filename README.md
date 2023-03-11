@@ -24,7 +24,7 @@
   - [📝 License ](#-license-)
   - [📝 License](#-license)
 
-# 📖 [To-Do-List] <a name="To_Do_List">To_Do_List</a>
+# 📖  <a name="To_Do_List">To_Do_List</a>
 
 This is a ToDoList project.
 
