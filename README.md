@@ -28,11 +28,20 @@
 
 This is a ToDoList project.
 
-## 🛠 Built With <a name="built-with">Html, css, javascript</a>
+## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack">HTML5, CSS3 JAVASCRIPT</a>
+### Tech Stack <a name="tech-stack"></a>
 
 HTML5 and css3 which are the latest versions and JavaScript were used in this project.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="">JavaScript(ES6)</a></li>
+    <li><a href="">Css</a></li>
+    <li><a href="">HTML</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 
@@ -67,25 +76,32 @@ Clone this repository to your desired folder:
 
 ### Install
 
-Install this project with cd to ToDoList.
+Install this project with:
+1. Installed Git.
+2. Create a local directory that you want to clone the repository.
+3. Open the command prompt in the created directory.
+4. On the terminal run this command git clone <https://github.com/Hisoka37/To-Do-List.git>
+5. Run ``` npm i --save-dev ```  to Install the dev dependencies
+### Usage
+
+To run the project, execute the following command:
+``` npm run build ```
 
 ### Run tests
 
 To run tests, run the following command:
-npm run serve  
+``` npm run test ```
 
 
 ### Deployment
 
-You can deploy this project using: GitHub pages.
+You can deploy this project using: GitHub pages or ``` npm run deploy ```.
 
 <!-- AUTHORS -->
 
 ## 👥 Author(s) <a name="authors"></a>
 
-> Walid Kabboussa
-
-👤 **Author1**
+👤 **Walid Kabboussa**
 
 - GitHub: [@Hisoka37](https://github.com/Hisoka37)
 - Twitter: [@KBwalid9](https://twitter.com/KBwalid9)
@@ -95,7 +111,7 @@ You can deploy this project using: GitHub pages.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 - **[future_feature_1]**  add & remove Tasks function.
-- **[future_feature_2]**  To Do list: interactive list
+- **[future_feature_2]**  To Do list: interactive list drag and drop
 
 <!-- CONTRIBUTING -->
 
