@@ -1,15 +1,15 @@
 <a name="ToDoList"></a>
 <div align="center">
   <br/>
-  <h3><b>To_Do_List</b></h3>
+   <h3><b>To Do List</b></h3>
 </div>
+
 # 📗 Table of Contents
 
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 \[To_Do_List] \_To\_Do\_List]
-  - [🛠 Built With Html, css, javascript](#-built-with-html-css-javascript)
-    - [Tech Stack HTML5, CSS3 JAVASCRIPT](#tech-stack-html5-css3-javascript)
-    - [Key Features ](#key-features-)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
